@@ -2,10 +2,10 @@
 ## This repository contains the Dracula theme source files for [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) 
 ---
 ### "dracula" version:
-<img src="images/dracula.png" alt="Image" width="400" height="800"> 
+<img src="images/dracula.png" alt="Image" width="200" height="400"> 
 
 ### "dracula(clean background)" version:
-<img src="images/dracula1.png" alt="Image1" width="400" height="800">
+<img src="images/dracula1.png" alt="Image1" width="200" height="400">
 
 ## How to apply it?
 1. on your AndroidIDE, enter the terminal 
