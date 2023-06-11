@@ -1,13 +1,13 @@
-# Dracula theme for AndroidIDE
-## This repository contains the Dracula theme source files for [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) 
+#  ♂️ Dracula theme for AndroidIDE
+> This repository contains the Dracula theme source files for [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) 
 ---
-### "dracula" version:
+> "dracula" version:
 <img src="images/dracula.png" alt="Image" width="200" height="400"> 
 
-### "dracula(clean background)" version:
+> "dracula(clean background)" version:
 <img src="images/dracula1.png" alt="Image1" width="200" height="400">
 
-## How to apply it?
+> How to apply it?
 1. on your AndroidIDE, enter the terminal 
 2. install git with the command:``` pkg i git -y```
 3. with git installed, clone this repository with the command:``` git clone https://github.com/staricdev/dracula-androidide```
