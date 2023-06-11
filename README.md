@@ -9,14 +9,14 @@
 
 - How to apply it?
 1. on your AndroidIDE, enter the terminal 
-2. install git with the command:```cpp
+2. install git with the command:```
  pkg i git -y```
-4. with git installed, clone this repository with the command:```cpp
+4. with git installed, clone this repository with the command:```
 git clone https://github.com/staricdev/dracula-androidide```
-6. enter the folder with ```cpp
+6. enter the folder with ```
  cd dracula-androidide```
 8. choose which theme you want, done that use the command ```cpp 
 mv <folder-name> $HOME/.androidide/ui/editor/schemes/```
-10. exit the terminal with ```cpp 
+10. exit the terminal with ```
 exit``` and restart AndroidIDE
 12. go into settings -> Editor -> Schemes. the theme you chose should be there.
