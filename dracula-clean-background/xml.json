@@ -43,7 +43,12 @@
       "fg": "@onSurface"
     },
     "attr.value": {
-      "fg": "@string"
+      "fg": "@string",
+      "maybeHexColor": true
+    },
+    "text": {
+        "fg": "@onSurface",
+        "maybeHexColor": true
     }
   }
 }

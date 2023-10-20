@@ -5,7 +5,8 @@
       "fg": "@json.key"
     },
     "string": {
-      "fg": "@string"
+      "fg": "@string",
+      "maybeHexColor": true
     },
     "number": {
       "fg": "@number"
